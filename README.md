@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to IIT(BHU) MnC's Unofficial Homepage !
+## Welcome to the MnC website created by students for students, the single stop for all things MnC related
 
-You can use the [editor on GitHub](https://github.com/iit-bhu-mnc/iit-bhu-mnc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About us 
+This is a simple website created by the students of MnC to make the lives of MnC students a little simpler. We will be posting various links/articles/announcements that are related to our institute and our course so that everyone has easy access to them. We will try our level best to help you along your journey through our great institute. We hope you will enjoy this page.  [Wanna Learn More?](https://iit-bhu-mnc.github.io/about)
+> **Note: this is an unofficial page so please treat all content posted here as such.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
+[IIT (BHU) Official Website](iitbhu.ac.in)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iit-bhu-mnc/iit-bhu-mnc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Links Related to Clubs](https://iit-bhu-mnc.github.io/club-links)
