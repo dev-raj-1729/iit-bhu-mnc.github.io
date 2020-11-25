@@ -15,4 +15,4 @@
 [WhatsApp Group](https://chat.whatsapp.com/LSqhmWqwX8xAtMLsW0XElk)
 ### Can't find/contact your club or wrong links?
 Felt like we have missed your favorite clubs or some of our links are misbehaving?
-Give us a feedback through [this form]() 
+Give us a feedback through [this form](https://docs.google.com/forms/d/e/1FAIpQLSd37XL0wi0oyUN-Gunf0wQI0HO5pgkfuK0EElT9MkIeUe7ySg/viewform?usp=sf_link) 
