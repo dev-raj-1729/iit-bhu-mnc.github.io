@@ -6,6 +6,6 @@ This is a simple website created by the students of MnC to make the lives of MnC
 > **Note: this is an unofficial page so please treat all content posted here as such.**
 
 ### Links
-[IIT (BHU) Official Website](iitbhu.ac.in)
+[IIT (BHU) Official Website](https://iitbhu.ac.in)
 
 [Links Related to Clubs](https://iit-bhu-mnc.github.io/clublinks)
