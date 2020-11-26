@@ -36,6 +36,18 @@
 [Google Form for Joining](https://forms.gle/UJUZcEEVPxfeg8vp6)
 
 [Forum](https://t.me/ecelliitbhu)
+
+[Facebook](https://www.facebook.com/ecelliitvaranasi/)
+
+[Instagram](https://instagram.com/ecelliitbhu?igshid=1dss132rg2lz0)
+
+[LinkedIn](https://www.linkedin.com/company/e-cell-iit-bhu-varanasi)
+
+[Twitter](https://twitter.com/ecelliitbhu?s=09)
+
+[Quora](https://www.quora.com/profile/E-Cell-IIT-BHU-Varanasi?ch=3&share=610af394&srid=33lyi)
+
+[YouTube](https://youtube.com/channel/UCUme5nNmSKY1GiUBUhlAnOQ)
 #### S.A.E Club
 #### Sustainability and Innovation Club
 ### Social Service Council
