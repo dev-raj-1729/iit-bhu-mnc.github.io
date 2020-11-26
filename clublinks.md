@@ -21,7 +21,9 @@
 #### Media Club
 [WhatsApp Group](https://chat.whatsapp.com/GEqXzC9pDzR92DRJfkgrRx)
 #### Design Club
-[WhatsApp Group](https://chat.whatsapp.com/CBAbnWBfGLaAEhIgNe9nQs)
+[WhatsApp Group](https://chat.whatsapp.com/CBAbnWBfGLaAEhIgNe9nQs) 
+
+[WhatsApp Group 2](https://chat.whatsapp.com/CvTRHnKa1CTKh2xo6sRVLF)
 #### Animation Club
 [WhatsApp Group](https://chat.whatsapp.com/LSqhmWqwX8xAtMLsW0XElk)
 ### Science and Technology Council
@@ -30,6 +32,10 @@
 #### Astronomy Club
 #### Aero-modelling Club
 #### Business Club
+#### E Cell
+[Google Form for Joining](https://forms.gle/UJUZcEEVPxfeg8vp6)
+
+[Forum](https://t.me/ecelliitbhu)
 #### S.A.E Club
 #### Sustainability and Innovation Club
 ### Social Service Council
