@@ -17,6 +17,8 @@
 [WhatsApp Group](https://chat.whatsapp.com/DauEPC5lIeXCiZQZOPYq1L)
 
 [Facebook](https://www.facebook.com/PhotographyClubIITBHU/)
+
+[Instagram](https://www.instagram.com/photographyclubiitbhu/?hl=en)
 #### Cine Club
 [WhatsApp Group](https://chat.whatsapp.com/Lt9yfXUgIOmFnVC76cxoMq)
 #### Out Reach Club
@@ -46,6 +48,7 @@
 #### Astronomy Club
 [WhatsApp](https://chat.whatsapp.com/GkqvckNeEMXAMXVjSg79oR)
 #### Aero-modelling Club
+[Facebook](https://www.facebook.com/amc.iitbhu/?ref=py_c)
 #### Business Club
 [WhatsApp 2.0](https://chat.whatsapp.com/Li3ieKFos1Q8qvDRaBENZ4)
 
@@ -84,6 +87,8 @@
 ### Cultural Council
 #### Indian Music Club
 [WhatsApp 2](https://chat.whatsapp.com/LY2CwiGVeZq8vBvihQiXTj)
+
+[Facebook](https://www.facebook.com/indianmusicclub.iitbhu/?ref=py_c)
 #### Western Music Club
 [Instagram](https://www.instagram.com/westernmusicclub_iitbhu/)
 
@@ -106,6 +111,8 @@
 [Facebook](https://www.facebook.com/faciitbhu/)
 #### Dance Freakz Club (DFZ)
 [WhatsApp](https://chat.whatsapp.com/HMstFM2GlsL7JYq9hla3DV)
+
+[Facebook](https://www.facebook.com/Dance.Iitbhu/?ref=py_c)
 ### Games and Sports Council
 [Instagram](https://www.instagram.com/tv/CHvYBoVh5ey/?igshid=dylsrsj4tx5c)
 #### Aquatics
