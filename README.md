@@ -8,7 +8,7 @@ This is a simple website created by the students of MnC to make the lives of MnC
 ### Links
 * [IIT (BHU) Official Website](https://iitbhu.ac.in)
 * [Course Structure](https://iitbhu.ac.in/dept/mat/courses/idd)
-* [Resources](../../resources)
+* [Resources](https://iit-bhu-mnc.github.io/resources)
 * [Links Related to Clubs](https://iit-bhu-mnc.github.io/clublinks)
 
 
