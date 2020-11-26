@@ -26,17 +26,14 @@
 [WhatsApp Group 2](https://chat.whatsapp.com/CvTRHnKa1CTKh2xo6sRVLF)
 #### Animation Club
 [WhatsApp Group](https://chat.whatsapp.com/LSqhmWqwX8xAtMLsW0XElk)
-#### Western Music Club
-[Instagram](https://www.instagram.com/westernmusicclub_iitbhu/)
-
-[Facebook](https://www.facebook.com/WMCIITBHU/)
-
-[WhatsApp](https://chat.whatsapp.com/BrvaDaqCXuX976T4iqLZkk)
 ### Science and Technology Council
 #### Robotics Club
 #### Club of Programmers (COPS)
+[Intro YouTube](https://www.youtube.com/watch?v=b9pBQMns4lw)
+
 [Infosec Discord](https://discord.gg/NHMYQXC)
 #### Astronomy Club
+[WhatsApp](https://chat.whatsapp.com/GkqvckNeEMXAMXVjSg79oR)
 #### Aero-modelling Club
 #### Business Club
 [WhatsApp 2.0](https://chat.whatsapp.com/Li3ieKFos1Q8qvDRaBENZ4)
@@ -72,11 +69,19 @@
 #### Health and Hygiene Club
 #### Sahyog
 #### Kashi Utkarsh
-#### Social Project's Club
+#### Social Projects Club
 ### Cultural Council
 #### Indian Music Club
+[WhatsApp 2](https://chat.whatsapp.com/LY2CwiGVeZq8vBvihQiXTj)
 #### Western Music Club
+[Instagram](https://www.instagram.com/westernmusicclub_iitbhu/)
+
+[Facebook](https://www.facebook.com/WMCIITBHU/)
+
+[WhatsApp](https://chat.whatsapp.com/BrvaDaqCXuX976T4iqLZkk)
 #### Literary Club (Lit Club)
+[WhatsApp](https://chat.whatsapp.com/HJmxQJK5JeH1ww06fVKats)
+
 [Telegram](https://t.me/joinchat/UqXUdkquwaN-m2Fkaw2nPQ)
 #### Quiz Club
 #### Masquerades (Drama Club)
@@ -85,6 +90,7 @@
 
 [Instagram](https://www.instagram.com/tv/CHx1NNkhlSf/?igshid=luhhv12y1l7w)
 #### Dance Freakz Club (DFZ)
+[WhatsApp](https://chat.whatsapp.com/HMstFM2GlsL7JYq9hla3DV)
 ### Games and Sports Council
 [Instagram](https://www.instagram.com/tv/CHvYBoVh5ey/?igshid=dylsrsj4tx5c)
 #### Aquatics
@@ -101,6 +107,7 @@
 #### Boxing
 [WhatsApp](https://chat.whatsapp.com/DMM4Yu412hMLyet76E8koE)
 #### Chess
+[WhatsApp](https://chat.whatsapp.com/IvQqpHpuevp6f7xVZmsO1M)
 #### Cricket
 #### Football
 [WhatsApp](https://chat.whatsapp.com/LGGoQxDobzYHx4qgwjcsOx)
