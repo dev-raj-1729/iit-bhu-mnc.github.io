@@ -29,6 +29,7 @@
 ### Science and Technology Council
 #### Robotics Club
 #### Club of Programmers (COPS)
+[Infosec Discord](https://discord.gg/NHMYQXC)
 #### Astronomy Club
 #### Aero-modelling Club
 #### Business Club
@@ -54,6 +55,13 @@
 #### S.A.E Club
 #### Sustainability and Innovation Club
 ### Social Service Council
+[Telegram](https://t.me/sscfreshers2020)
+
+[Survey](https://cutt.ly/sscsurvey2020)
+
+[Facebook](https://l.ead.me/bbpSda)
+
+[More Info](https://cutt.ly/KnowAbout_SSC-IITBHU)
 #### Health and Hygiene Club
 #### Sahyog
 #### Kashi Utkarsh
@@ -65,23 +73,33 @@
 #### Quiz Club
 #### Masquerades (Drama Club)
 #### Fine Arts Club (FAC)
+[WhatsApp](https://chat.whatsapp.com/BuNKAZsXB5b3s5gq3mhITH)
+
+[Instagram](https://www.instagram.com/tv/CHx1NNkhlSf/?igshid=luhhv12y1l7w)
 #### Dance Freakz Club (DFZ)
 ### Games and Sports Council
 #### Aquatics
 #### Athletics
 #### Badminton 
+[WhatsApp](https://chat.whatsapp.com/B9XvwgRSPbY2xjvMa0kC6a)
 #### Basketball
+[WhatsApp](https://chat.whatsapp.com/DSVxbKeHneR4f5098EZhVI)
 #### Boxing
 #### Chess
 #### Cricket
 #### Football
+[WhatsApp](https://chat.whatsapp.com/LGGoQxDobzYHx4qgwjcsOx)
 #### Handball
 #### Hockey 
 #### Kabaddi
 #### Kho-Kho
+[Kho Kho Team Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdg4hcQoqrp63zEA9sd4m5loNH85nKUUxtqu4KdYkSX40aeaA/viewform?usp=sf_link)
 #### Squash
+[WhatsApp](https://chat.whatsapp.com/K4AZf9Pa5Qq3IXgPG29OAY)
 #### Table Tennis
+[WhatsApp](https://chat.whatsapp.com/LFWXSCyTe6mDsgxSMpTgBr)
 #### Taekwondo
+[WhatsApp](https://chat.whatsapp.com/CgZUc0g7zx56q9uLD73PGm)
 #### Tennis
 #### Volleyball
 #### Weightlifting
