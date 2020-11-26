@@ -26,6 +26,12 @@
 [WhatsApp Group 2](https://chat.whatsapp.com/CvTRHnKa1CTKh2xo6sRVLF)
 #### Animation Club
 [WhatsApp Group](https://chat.whatsapp.com/LSqhmWqwX8xAtMLsW0XElk)
+#### Western Music Club
+[Instagram](https://www.instagram.com/westernmusicclub_iitbhu/)
+
+[Facebook](https://www.facebook.com/WMCIITBHU/)
+
+[WhatsApp](https://chat.whatsapp.com/BrvaDaqCXuX976T4iqLZkk)
 ### Science and Technology Council
 #### Robotics Club
 #### Club of Programmers (COPS)
@@ -54,6 +60,7 @@
 [YouTube](https://youtube.com/channel/UCUme5nNmSKY1GiUBUhlAnOQ)
 #### S.A.E Club
 #### Sustainability and Innovation Club
+[WhatsApp](https://chat.whatsapp.com/EWbFHcCfQ7F639eVBR4bqC)
 ### Social Service Council
 [Telegram](https://t.me/sscfreshers2020)
 
@@ -70,6 +77,7 @@
 #### Indian Music Club
 #### Western Music Club
 #### Literary Club (Lit Club)
+[Telegram](https://t.me/joinchat/UqXUdkquwaN-m2Fkaw2nPQ)
 #### Quiz Club
 #### Masquerades (Drama Club)
 #### Fine Arts Club (FAC)
@@ -78,13 +86,20 @@
 [Instagram](https://www.instagram.com/tv/CHx1NNkhlSf/?igshid=luhhv12y1l7w)
 #### Dance Freakz Club (DFZ)
 ### Games and Sports Council
+[Instagram](https://www.instagram.com/tv/CHvYBoVh5ey/?igshid=dylsrsj4tx5c)
 #### Aquatics
 #### Athletics
+[WhatsApp](https://chat.whatsapp.com/FscWfm8DZXfG5rZS8qmnMz)
 #### Badminton 
+[WhatsApp](https://chat.whatsapp.com/HQYJLeyBVSO28tK58cjUtz)
+
 [WhatsApp](https://chat.whatsapp.com/B9XvwgRSPbY2xjvMa0kC6a)
 #### Basketball
 [WhatsApp](https://chat.whatsapp.com/DSVxbKeHneR4f5098EZhVI)
+
+[WhatsApp (Girls)](https://chat.whatsapp.com/KHfHYo43HDjGpaTbogTh8i)
 #### Boxing
+[WhatsApp](https://chat.whatsapp.com/DMM4Yu412hMLyet76E8koE)
 #### Chess
 #### Cricket
 #### Football
@@ -101,7 +116,11 @@
 #### Taekwondo
 [WhatsApp](https://chat.whatsapp.com/CgZUc0g7zx56q9uLD73PGm)
 #### Tennis
+[WhatsApp](https://chat.whatsapp.com/GE0xxOa6rtn8rFN2fqK1sT)
 #### Volleyball
+[WhatsApp](https://chat.whatsapp.com/G5PFdCW3EJq0pHo2VaIvoG)
+
+[WhatsApp (Boys )](https://chat.whatsapp.com/KRngBEfvWBr3mMmzfvFL06)
 #### Weightlifting
 ### Can't find/contact your club or wrong links?
 Felt like we have missed your favorite clubs or some of our links are misbehaving?
