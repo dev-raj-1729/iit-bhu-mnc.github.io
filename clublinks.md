@@ -32,6 +32,9 @@
 #### Astronomy Club
 #### Aero-modelling Club
 #### Business Club
+[WhatsApp 2.0](https://chat.whatsapp.com/Li3ieKFos1Q8qvDRaBENZ4)
+
+[WhatsApp 3.0](https://chat.whatsapp.com/LmHLnbtlFD5Bd9u8RjbURb)
 #### E Cell
 [Google Form for Joining](https://forms.gle/UJUZcEEVPxfeg8vp6)
 
