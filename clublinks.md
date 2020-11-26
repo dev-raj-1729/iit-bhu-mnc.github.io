@@ -1,5 +1,5 @@
 # All your club links are belong to us !
-## Here we consolidated together the social media and other links of various clubs so you don't have to go around like a door-to-door salesperson asking people for different links
+## Here we have consolidated together the social media and other links of various clubs so you don't have to go around like a door-to-door salesperson asking people for different links
 #### Navigation 
 [Film and Media Council](#film-and-media-council)
 
