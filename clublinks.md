@@ -12,14 +12,21 @@
 [Games and Sports Council](#games-and-sports-council)
 
 ### Film and Media Council 
+[Facebook](https://www.facebook.com/fmc.iitbhu/)
 ####  Photography Club
 [WhatsApp Group](https://chat.whatsapp.com/DauEPC5lIeXCiZQZOPYq1L)
+
+[Facebook](https://www.facebook.com/PhotographyClubIITBHU/)
 #### Cine Club
 [WhatsApp Group](https://chat.whatsapp.com/Lt9yfXUgIOmFnVC76cxoMq)
 #### Out Reach Club
 [WhatsApp Group](https://chat.whatsapp.com/HunjReFU4iy2IJXAR2PoW5)
+
+[Facebook](https://www.facebook.com/outreachclubiitbhu/?ref=py_c)
 #### Media Club
 [WhatsApp Group](https://chat.whatsapp.com/GEqXzC9pDzR92DRJfkgrRx)
+
+[Facebook](https://www.facebook.com/MediaClub.IITBHU/?ref=py_c)
 #### Design Club
 [WhatsApp Group](https://chat.whatsapp.com/CBAbnWBfGLaAEhIgNe9nQs) 
 
@@ -27,9 +34,13 @@
 #### Animation Club
 [WhatsApp Group](https://chat.whatsapp.com/LSqhmWqwX8xAtMLsW0XElk)
 ### Science and Technology Council
+[Facebook](https://www.facebook.com/sntc.iitbhu/?ref=py_c)
 #### Robotics Club
+[Facebook](https://www.facebook.com/roboticsclubatiitbhu/)
 #### Club of Programmers (COPS)
 [Intro YouTube](https://www.youtube.com/watch?v=b9pBQMns4lw)
+
+[Facebook](https://www.facebook.com/cops.iitbhu/?ref=py_c)
 
 [Infosec Discord](https://discord.gg/NHMYQXC)
 #### Astronomy Club
@@ -83,12 +94,16 @@
 [WhatsApp](https://chat.whatsapp.com/HJmxQJK5JeH1ww06fVKats)
 
 [Telegram](https://t.me/joinchat/UqXUdkquwaN-m2Fkaw2nPQ)
+
+[Facebook](https://www.facebook.com/lit.iitbhu/?ref=py_c)
 #### Quiz Club
 #### Masquerades (Drama Club)
 #### Fine Arts Club (FAC)
 [WhatsApp](https://chat.whatsapp.com/BuNKAZsXB5b3s5gq3mhITH)
 
 [Instagram](https://www.instagram.com/tv/CHx1NNkhlSf/?igshid=luhhv12y1l7w)
+
+[Facebook](https://www.facebook.com/faciitbhu/)
 #### Dance Freakz Club (DFZ)
 [WhatsApp](https://chat.whatsapp.com/HMstFM2GlsL7JYq9hla3DV)
 ### Games and Sports Council
