@@ -33,7 +33,6 @@
 #### Club of Programmers (COPS)
 * [Intro YouTube](https://www.youtube.com/watch?v=b9pBQMns4lw)
 * [Facebook](https://www.facebook.com/cops.iitbhu/?ref=py_c)
-* [Infosec Discord](https://discord.gg/NHMYQXC)
 #### Astronomy Club
 
 #### Aero-modelling Club
@@ -41,7 +40,6 @@
 #### Business Club
 
 #### E Cell
-* [Google Form for Joining](https://forms.gle/UJUZcEEVPxfeg8vp6)
 * [Forum](https://t.me/ecelliitbhu)
 * [Facebook](https://www.facebook.com/ecelliitvaranasi/)
 * [Instagram](https://instagram.com/ecelliitbhu?igshid=1dss132rg2lz0)
@@ -54,7 +52,6 @@
 
 
 ### Social Service Council
-* [Telegram](https://t.me/sscfreshers2020)
 * [Survey](https://cutt.ly/sscsurvey2020)
 * [Facebook](https://l.ead.me/bbpSda)
 * [More Info](https://cutt.ly/KnowAbout_SSC-IITBHU)
@@ -71,7 +68,6 @@
 * [Instagram](https://www.instagram.com/westernmusicclub_iitbhu/)
 * [Facebook](https://www.facebook.com/WMCIITBHU/)
 #### Literary Club (Lit Club)
-* [Telegram](https://t.me/joinchat/UqXUdkquwaN-m2Fkaw2nPQ)
 * [Facebook](https://www.facebook.com/lit.iitbhu/?ref=py_c)
 #### Quiz Club
 #### Masquerades (Drama Club)
@@ -95,7 +91,6 @@
 #### Hockey 
 #### Kabaddi
 #### Kho-Kho
-* [Kho Kho Team Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdg4hcQoqrp63zEA9sd4m5loNH85nKUUxtqu4KdYkSX40aeaA/viewform?usp=sf_link)
 #### Squash
 #### Table Tennis
 #### Taekwondo
