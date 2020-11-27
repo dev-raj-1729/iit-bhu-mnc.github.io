@@ -1,5 +1,7 @@
 # "All your club links are belong to us !"
 ## Here we have consolidated together the social media and other links of various clubs so you don't have to go around like a door-to-door salesperson asking people for different links
+### Wanna Join one of the clubs ?
+Excited and want to join one of the clubs? Access [this file](https://docs.google.com/document/d/1Xl8zuPn-ouaqUuT5ewuFx_kueV9tLtZ2o2SJeNLCZbQ/edit?usp=sharing) using your institute mail ID
 #### Navigation 
 * [Film and Media Council](#film-and-media-council)
 * [Science and Technology Counclil](#science-and-technology-council)
