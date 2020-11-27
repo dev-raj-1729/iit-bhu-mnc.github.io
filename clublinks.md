@@ -11,7 +11,6 @@
 ### Film and Media Council 
 * [Facebook](https://www.facebook.com/fmc.iitbhu/)
 ####  Photography Club
-* [WhatsApp Group](https://chat.whatsapp.com/DauEPC5lIeXCiZQZOPYq1L)
 * [Facebook](https://www.facebook.com/PhotographyClubIITBHU/)
 * [Instagram](https://www.instagram.com/photographyclubiitbhu/?hl=en)
 #### Cine Club
