@@ -6,6 +6,7 @@
 * [Social Service Council](#social-service-council)
 * [Cultural Council](#cultural-council)
 * [Games and Sports Council](#games-and-sports-council)
+* [Can't find/contact your club or wrong links?](#cant-findcontact-your-club-or-wrong-links)
 
 ### Film and Media Council 
 * [Facebook](https://www.facebook.com/fmc.iitbhu/)
