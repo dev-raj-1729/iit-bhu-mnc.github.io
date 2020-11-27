@@ -27,6 +27,7 @@
 * [WhatsApp Group 2](https://chat.whatsapp.com/CvTRHnKa1CTKh2xo6sRVLF)
 #### Animation Club
 * [WhatsApp Group](https://chat.whatsapp.com/LSqhmWqwX8xAtMLsW0XElk)
+
 ### Science and Technology Council
 * [Facebook](https://www.facebook.com/sntc.iitbhu/?ref=py_c)
 #### Robotics Club
@@ -54,6 +55,7 @@
 #### S.A.E Club
 #### Sustainability and Innovation Club
 * [WhatsApp](https://chat.whatsapp.com/EWbFHcCfQ7F639eVBR4bqC)
+
 ### Social Service Council
 * [Telegram](https://t.me/sscfreshers2020)
 * [Survey](https://cutt.ly/sscsurvey2020)
@@ -63,6 +65,7 @@
 #### Sahyog
 #### Kashi Utkarsh
 #### Social Projects Club
+
 ### Cultural Council
 #### Indian Music Club
 * [WhatsApp 2](https://chat.whatsapp.com/LY2CwiGVeZq8vBvihQiXTj)
@@ -77,6 +80,7 @@
 * [Facebook](https://www.facebook.com/lit.iitbhu/?ref=py_c)
 #### Quiz Club
 #### Masquerades (Drama Club)
+* [WhatsApp](https://chat.whatsapp.com/IlWJRsdTxpKAetY497pIeN)
 #### Fine Arts Club (FAC)
 * [WhatsApp](https://chat.whatsapp.com/BuNKAZsXB5b3s5gq3mhITH)
 * [Instagram](https://www.instagram.com/tv/CHx1NNkhlSf/?igshid=luhhv12y1l7w)
@@ -84,6 +88,7 @@
 #### Dance Freakz Club (DFZ)
 * [WhatsApp](https://chat.whatsapp.com/HMstFM2GlsL7JYq9hla3DV)
 * [Facebook](https://www.facebook.com/Dance.Iitbhu/?ref=py_c)
+
 ### Games and Sports Council
 * [Instagram](https://www.instagram.com/tv/CHvYBoVh5ey/?igshid=dylsrsj4tx5c)
 #### Aquatics
@@ -119,6 +124,7 @@
 * [WhatsApp](https://chat.whatsapp.com/G5PFdCW3EJq0pHo2VaIvoG)
 * [WhatsApp (Boys)](https://chat.whatsapp.com/KRngBEfvWBr3mMmzfvFL06)
 #### Weightlifting
+
 ### Can't find/contact your club or wrong links?
 Felt like we have missed your favorite clubs or some of our links are misbehaving or wanna help us out by giving a link for a club?
 Give us a feedback through [this form](https://docs.google.com/forms/d/e/1FAIpQLSd37XL0wi0oyUN-Gunf0wQI0HO5pgkfuK0EElT9MkIeUe7ySg/viewform?usp=sf_link) 
