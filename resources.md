@@ -9,6 +9,7 @@
 
 ## Extra
 * [Learn from Khan Academy](https://www.khanacademy.org/)
+* [Learn from Brilliant.org(website from MIT)](https://brilliant.org/) ( Subsricption of Rs4800/year Required)
 ### Coding
 * [Learn to code from SoloLearn](https://www.sololearn.com/)
 * [Learn to code from freeCodeCamp.org](https://www.freecodecamp.org/)
@@ -18,4 +19,7 @@
 * [Visual Studio IDE ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16&embed-exp=true) (Not for Beginners)
 * [Learn Git](https://git-scm.com/book/en/v2) and [Download git](https://git-scm.com/downloads)
 ### Maths
-* 
+* [Subscribe to 3blue1brown](https://www.youtube.com/c/3blue1brown)
+* [Essence of Calculus 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [Subscribe to Numberphile](https://www.youtube.com/user/numberphile)
+* [Subsribe to Stand-Up Maths](https://www.youtube.com/user/numberphile)
