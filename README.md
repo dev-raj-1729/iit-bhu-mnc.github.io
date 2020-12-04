@@ -8,6 +8,7 @@ This is a simple website created by the students of MnC to make the lives of MnC
 ### Weekly Announcements
 * First PHY102 quiz to be held on saturday (10-11 AM) Rough work to be uploaded in respective PHY102 Tutorials Classroom by 12 Noon. Check Physics course site from link for FAQ and further info
 * A Maths tutorial will be held on Dec 6 Sunday 6 PM
+
 ### Links
 * [IIT (BHU) Official Website](https://iitbhu.ac.in)
 * [Course Structure](https://iitbhu.ac.in/dept/mat/courses/idd)
