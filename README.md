@@ -4,7 +4,9 @@
 ### About us 
 This is a simple website created by the students of MnC to make the lives of MnC students a little simpler. We will be posting various links/articles/announcements that are related to our institute and our course so that everyone has easy access to them. We will try our level best to help you along your journey through our great institute. We hope you will enjoy this page.  [Wanna Learn More?](https://iit-bhu-mnc.github.io/about)
 > **Note: this is an unofficial page so please treat all content posted here as such.**
-
+### Weekly Announcements
+* First PHY102 quiz to be held on saturday (10-11 AM) Rough work to be uploaded in respective PHY102 Tutorials Classroom by 12 Noon. Check Physics course site from link for FAQ and further info
+* A Maths tutorial will be held on Dec 6 Sunday 6 PM
 ### Links
 * [IIT (BHU) Official Website](https://iitbhu.ac.in)
 * [Course Structure](https://iitbhu.ac.in/dept/mat/courses/idd)
