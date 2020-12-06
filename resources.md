@@ -10,11 +10,13 @@
 ## Extra
 * [Learn from Khan Academy](https://www.khanacademy.org/)
 * [Learn from Brilliant.org(website from MIT)](https://brilliant.org/) ( Subsricption of Rs4800/year Required)
+* [Get Blender](https://www.blender.org/)
 ### Coding
 * [Learn to code from SoloLearn](https://www.sololearn.com/)
 * [Learn to code from freeCodeCamp.org](https://www.freecodecamp.org/)
 * [Test and improve your skills :- Hacker Rank](https://www.hackerrank.com/)
 * [Also try leetcode](https://leetcode.com/)
+* [C++ tutorial from GeeksforGeeks](https://www.geeksforgeeks.org/cpp-tutorial/)
 * [Code Blocks Donwload](http://www.codeblocks.org/downloads/26) (For Beginners : - Download and run file with ..mingw-setup.exe for Windows)
 * [Visual Studio Code Download](https://code.visualstudio.com/download) 
 * [Visual Studio IDE ](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16&embed-exp=true) (Not for Beginners)
