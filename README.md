@@ -6,8 +6,8 @@ This is a simple website created by the students of MnC to make the lives of MnC
 > **Note: this is an unofficial page so please treat all content posted here as such.**
 
 ### Weekly Announcements
-* First PHY102 quiz to be held on saturday (10-11 AM) Rough work to be uploaded in respective PHY102 Tutorials Classroom by 12 Noon. Check Physics course site from link for FAQ and further info
-* A Maths tutorial will be held on Dec 6 Sunday 10 AM - 11 AM
+* First CSO101 quiz to be held on 14th Dec from 5:30 PM to 6:00 PM
+
 
 ### Links
 * [IIT (BHU) Official Website](https://iitbhu.ac.in)
