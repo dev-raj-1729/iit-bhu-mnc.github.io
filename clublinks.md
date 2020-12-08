@@ -29,23 +29,28 @@ Excited and want to join one of the clubs? Access [this file](https://docs.googl
 
 
 ### Science and Technology Council
+* [About](https://www.sntciitbhu.co.in/)
 * [Facebook](https://www.facebook.com/sntc.iitbhu/?ref=py_c)
 #### Robotics Club
+* [About](https://www.sntciitbhu.co.in/clubs/robotics)
 * [Facebook](https://www.facebook.com/roboticsclubatiitbhu/)
 #### Club of Programmers (COPS)
+* [About](https://www.sntciitbhu.co.in/clubs/cops)
 * [Intro YouTube](https://www.youtube.com/watch?v=b9pBQMns4lw)
 * [Facebook](https://www.facebook.com/cops.iitbhu/?ref=py_c)
 #### Astronomy Club
+* [About](https://www.sntciitbhu.co.in/clubs/astronomy)
 * [Facebook](https://m.facebook.com/astro.iitbhu/?refid=52&__tn__=C-R)
 * [Instagram](https://www.instagram.com/p/CIf2zIHBdHE/?igshid=18lgtwkblwnp3)
 #### Aero-modelling Club
+* [About](https://www.sntciitbhu.co.in/clubs/aero_modelling)
 * [Facebook](https://www.facebook.com/amc.iitbhu/?ref=py_c)
 * [Instagram](https://www.instagram.com/amc.iitbhu/?hl=en)
 * [YouTube](https://www.youtube.com/user/amciitbhu)
 * [LinkedIn](https://www.youtube.com/user/amciitbhu)
 
 #### Business Club
-
+* [About](https://www.sntciitbhu.co.in/clubs/biz)
 #### E Cell
 * [Forum](https://t.me/ecelliitbhu)
 * [Facebook](https://www.facebook.com/ecelliitvaranasi/)
@@ -54,9 +59,10 @@ Excited and want to join one of the clubs? Access [this file](https://docs.googl
 * [Twitter](https://twitter.com/ecelliitbhu?s=09)
 * [Quora](https://www.quora.com/profile/E-Cell-IIT-BHU-Varanasi?ch=3&share=610af394&srid=33lyi)
 * [YouTube](https://youtube.com/channel/UCUme5nNmSKY1GiUBUhlAnOQ)
-#### S.A.E Club
+#### Society of Automotive Engineers Club
+* [About](https://www.sntciitbhu.co.in/clubs/sae)
 #### Sustainability and Innovation Club
-
+* [About](https://www.sntciitbhu.co.in/clubs/csi)
 
 ### Social Service Council
 * [Survey](https://cutt.ly/sscsurvey2020)
