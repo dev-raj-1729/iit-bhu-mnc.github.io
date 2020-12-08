@@ -40,6 +40,9 @@ Excited and want to join one of the clubs? Access [this file](https://docs.googl
 #### Aero-modelling Club
 * [Facebook](https://www.facebook.com/amc.iitbhu/?ref=py_c)
 * [Instagram](https://www.instagram.com/amc.iitbhu/?hl=en)
+* [YouTube](https://www.youtube.com/user/amciitbhu)
+* [LinkedIn](https://www.youtube.com/user/amciitbhu)
+
 #### Business Club
 
 #### E Cell
