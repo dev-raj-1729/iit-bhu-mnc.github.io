@@ -7,7 +7,7 @@ This is a simple website created by the students of MnC to make the lives of MnC
 
 ### Weekly Announcements
 * First CSO101 quiz to be held on 14th Dec from 5:30 PM to 6:00 PM
-
+* ![Club Orientation Schedule](https://github.com/iit-bhu-mnc/iit-bhu-mnc.github.io/blob/main/Club%20Orientation%20Schedule.jpeg)
 
 ### Links
 * [IIT (BHU) Official Website](https://iitbhu.ac.in)
