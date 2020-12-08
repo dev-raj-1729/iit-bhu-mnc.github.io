@@ -36,7 +36,8 @@ Excited and want to join one of the clubs? Access [this file](https://docs.googl
 * [Intro YouTube](https://www.youtube.com/watch?v=b9pBQMns4lw)
 * [Facebook](https://www.facebook.com/cops.iitbhu/?ref=py_c)
 #### Astronomy Club
-
+* [Facebook](https://m.facebook.com/story.php?story_fbid=2204962552960871&id=111356105654870)
+* [Instagram](https://www.instagram.com/p/CIf2zIHBdHE/?igshid=18lgtwkblwnp3)
 #### Aero-modelling Club
 * [Facebook](https://www.facebook.com/amc.iitbhu/?ref=py_c)
 * [Instagram](https://www.instagram.com/amc.iitbhu/?hl=en)
