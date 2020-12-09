@@ -6,7 +6,8 @@ This is a simple website created by the students of MnC to make the lives of MnC
 > **Note: this is an unofficial page so please treat all content posted here as such.**
 
 ### Weekly Announcements
-* First CSO101 quiz to be held on 14th Dec from 5:30 PM to 6:00 PM
+* First CSO101 (Computer Science) quiz to be held on 14th Dec from 5:30 PM to 6:00 PM Syllabus : Till Lecture 8 ( Formatted input using scanf)
+* First CY101 (Chemistry) quiz to be held on 20th Dec from 11:00 AM to 11:30 AM. Syllabus : Chemical Kinetics
 * <img src="https://iit-bhu-mnc.github.io/cos.jpeg" alt="Club Orientation Schedule">
 
 ### Links
