@@ -12,6 +12,7 @@
 * [Learn from Brilliant.org(website from MIT)](https://brilliant.org/) ( Subsricption of Rs4800/year Required)
 * [Get Blender](https://www.blender.org/)
 * [AutoCAD for students](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1&filters=individual)
+* [Startup Product Development Resources(from E-cell)](https://docs.google.com/spreadsheets/u/1/d/1SWsdxT5799t7IWtvJiqgYq6_8CnRv6_cqGVokSuJD9I/htmlview)
 ### Coding
 * [Learn to code from SoloLearn](https://www.sololearn.com/)
 * [Learn to code from freeCodeCamp.org](https://www.freecodecamp.org/)
