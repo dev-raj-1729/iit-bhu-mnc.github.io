@@ -7,7 +7,7 @@ This is a simple website created by the students of MnC to make the lives of MnC
 
 ### Weekly Announcements
 * First CSO101 (Computer Science) quiz has been cancelled and second CSO101 quiz to be held on 21/12/2020 (Monday). Syllabus : Topics taken in the two weeks before the quiz.
-* First CY101 (Chemistry) quiz to be held on 20th Dec from 11:00 AM to 11:30 AM. Syllabus : Chemical Kinetics
+* First CY101 (Chemistry) quiz  has been postponed to 27th Dec from 20th Dec
 * <img src="https://iit-bhu-mnc.github.io/cos.jpeg" alt="Club Orientation Schedule">
 
 ### Links
