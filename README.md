@@ -6,10 +6,10 @@ This is a simple website created by the students of MnC to make the lives of MnC
 > **Note: this is an unofficial page so please treat all content posted here as such.**
 
 ### Weekly Announcements
-* First CSO101 (Computer Science) quiz has been cancelled and second CSO101 quiz to be held on 21/12/2020 (Monday). Syllabus : Topics taken in the two weeks before the quiz.
+* Third CSO 101 quiz will be held on 28th Monday from 5:30 PM to 5:55 PM, the Syllabus : Operators:Arithmetics, relational , logical , assignment , increment/decrement, bitwise and special operators
 * First CY101 (Chemistry) quiz  has been postponed to 27th Dec from 20th Dec
-* Second PHY102 quiz will be held on 19th Dec from 10 AM to 11 AM for Syllabus and more details [Click Here (Physics Site)](https://sites.google.com/itbhu.ac.in/phy102/home?pli=1&authuser=2)
-* <img src="https://iit-bhu-mnc.github.io/cos.jpeg" alt="Club Orientation Schedule">
+
+
 
 ### Links
 * [IIT (BHU) Official Website](https://iitbhu.ac.in)
