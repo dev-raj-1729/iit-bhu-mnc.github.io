@@ -6,6 +6,7 @@ This is a simple website created by the students of MnC to make the lives of MnC
 > **Note: this is an unofficial page so please treat all content posted here as such.**
 
 ### Weekly Announcements
+* [Mid-sems schedule](https://drive.google.com/file/d/1WPmfg8pzW6w15mH4zydGz08hfKwZkqrq/view?usp=sharing)
 * Third PHY102 will be conducted on Saturday, June 2nd from 10 AM to 11 AM. For Syllabus and Further info visit the [PHY102 Website](https://sites.google.com/itbhu.ac.in/phy102/home)
 
 ### Links
