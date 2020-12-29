@@ -6,9 +6,6 @@ This is a simple website created by the students of MnC to make the lives of MnC
 > **Note: this is an unofficial page so please treat all content posted here as such.**
 
 ### Weekly Announcements
-* Third CSO 101 quiz will be held on 28th Monday from 5:30 PM to 5:55 PM, the Syllabus : Operators:Arithmetics, relational , logical , assignment , increment/decrement, bitwise and special operators
-* First CY101 (Chemistry) quiz  has been postponed to 27th Dec from 20th Dec
-
 
 
 ### Links
