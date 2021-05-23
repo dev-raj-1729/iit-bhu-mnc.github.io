@@ -11,7 +11,6 @@ This is a simple website created by the students of MnC to make the lives of MnC
 ### Links
 * [IIT (BHU) Official Website](https://iitbhu.ac.in)
 * [Course Structure](https://iitbhu.ac.in/dept/mat/courses/idd)
-* [Physics Course Site](https://sites.google.com/itbhu.ac.in/phy102/home?pli=1&authuser=2)
 * [Resources](https://iit-bhu-mnc.github.io/resources)
 * [Links Related to Clubs](https://iit-bhu-mnc.github.io/clublinks)
 
